@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 myenv
 
+git-cheat-sheet-education.pdf
 # C extensions
 *.so
 
